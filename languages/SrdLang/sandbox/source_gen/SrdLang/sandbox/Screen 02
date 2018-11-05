@@ -1,0 +1,22 @@
+Screen Screen 02 (12.5%)
+  Use Cases
+    Use Case Uc 01 (25.0%)
+      Features
+        Feature F 01 (100.0%)
+          Test Cases
+            Test Case TC 01
+      Feature References
+        Feature Lock columns to display XY (100.0%)
+          Test Cases
+            Test Case Locked test case
+        Feature Paginate the table results (100.0%)
+          Test Cases
+            Test Case Page size should be 20 by default
+            Test Case Page size should be configurable on User Preferences screen
+            Test Case Initially the first page should be visible
+            Test Case First and previous page buttons should be disabled on the first page
+            Test Case Last and next page buttons should be disabled on the last page
+        Feature Reorder the columns (100.0%)
+          Test Cases
+            Test Case Drag third column before the second
+    Use Case UC 02 (0.0%)

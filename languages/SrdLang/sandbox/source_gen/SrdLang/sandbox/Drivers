@@ -1,0 +1,28 @@
+Screen Drivers (8.333333333333334%)
+  Use Cases
+    Use Case As an Admin User I want to View the existing Drivers (16.666666666666668%)
+      Features
+        Feature Show the data in a Table (100.0%)
+          Test Cases
+            Test Case Should display the current data
+            Test Case Should has at least the system data (those records can not be deleted)
+            Test Case Should show a graphical indication on Equations
+        Feature Second feature (0.0%)
+      Feature References
+        Feature Paginate the table results (100.0%)
+          Test Cases
+            Test Case Page size should be 20 by default
+            Test Case Page size should be configurable on User Preferences screen
+            Test Case Initially the first page should be visible
+            Test Case First and previous page buttons should be disabled on the first page
+            Test Case Last and next page buttons should be disabled on the last page
+        Feature Reorder the columns (100.0%)
+          Test Cases
+            Test Case Drag third column before the second
+        Feature Resize the column (0.0%)
+        Feature Lock columns to display XY (100.0%)
+          Test Cases
+            Test Case Locked test case
+    Use Case Second use case (0.0%)
+      Features
+        Feature  (0.0%)

@@ -1,0 +1,25 @@
+Screen Screen 01 (66.66666666666667%)
+  Use Cases
+    Use Case UC 01 (33.333333333333336%)
+      Features
+        Feature F 01 (100.0%)
+          Test Cases
+            Test Case TC 01
+            Test Case TC 02
+            Test Case TC 03
+      Feature References
+        Feature Paginate the table results (100.0%)
+          Test Cases
+            Test Case Page size should be 20 by default
+            Test Case Page size should be configurable on User Preferences screen
+            Test Case Initially the first page should be visible
+            Test Case First and previous page buttons should be disabled on the first page
+            Test Case Last and next page buttons should be disabled on the last page
+        Feature Lock columns to display XY (100.0%)
+          Test Cases
+            Test Case Locked test case
+    Use Case UC 02 (100.0%)
+      Features
+        Feature F 02 (100.0%)
+          Test Cases
+            Test Case TC 04
